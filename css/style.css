@@ -1,0 +1,17 @@
+.footer, .bar, .body, .hero, .header{
+	background-color: skyblue;
+	margin-bottom: 10px;
+}
+.box{
+	margin: 10px 0;
+	background-color: red;
+	min-height: 80px;
+	font-size: 30px;
+	text-align: center;
+}
+.pink{
+	background-color: pink;
+}
+.five{
+	background-color: blue;
+}
